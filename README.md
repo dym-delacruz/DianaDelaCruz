@@ -15,12 +15,8 @@ I'm a second-year Information Technology student at New Era University, interest
 |[Oracle Cloud Infrastructure 2025 AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4BDC6060ED5918D51C4D8939B88D70F2A630C5FD5CB4640D786A91BCA40B894)| Oracle University | 12-16-2025 |
 
 ## ⚙️ Skill Sets
-- Programming:
-  <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60"/> <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/logo_sql.svg
-)" width="60"/> </p>
-- Database: 
-  <p><img src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/logos/ibm-db2.svg" width="60"/></p>
-- Tools:
-  <p><img src="https://raw.githubusercontent.com/benlinton/awesome-dashboard-icons/main/icons/lucidchart.svg" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="60" height="60"/></p>
+- Programming: Java, SQL
+- Database: IBM DB2 Cloud
+- Tools: Lucidchart, Figma, Eclipse
            
            
